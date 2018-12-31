@@ -1,2 +1,2 @@
 # furniture
-Make small sqlite database and access it with node to store information on mid century furniture manufacturers 
+Make small firebase database and access it with react to store information on mid century furniture manufacturers 
